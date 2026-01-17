@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Cinayet Çözülme Durumu Tahmini (Homicide Clearance Prediction)
+# 🕵️‍♂️ Cinayet Çözülme Durumu Tahmini 
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Kütüphane-Scikit--Learn-orange)
@@ -57,7 +57,7 @@ Veri dengesiz olduğu için yanıltıcı olabilen "Accuracy" yerine, modelin ay�
 
 1.  **Projeyi klonlayın:**
     ```bash
-    git clone [https://github.com/KULLANICI_ADINIZ/homicide-prediction.git](https://github.com/KULLANICI_ADINIZ/homicide-prediction.git)
+    git clone [https://github.com/KarakusBaran/Advanced-Crime-ML-Analysis]
     ```
 
 2.  **Gerekli kütüphaneleri yükleyin:**
@@ -66,7 +66,7 @@ Veri dengesiz olduğu için yanıltıcı olabilen "Accuracy" yerine, modelin ay�
     ```
 
 3.  **Jupyter Notebook'ları çalıştırın:**
-    * Lineer analiz ve veri temizliği için: `Baran_Karakus_Linear_SGD.ipynb`
-    * Final model ve değerlendirme için: `Group_Project_Stacking.ipynb`
+    * Lineer analiz ve veri temizliği için: `Baran_Karakuş_22040101046_OlayYeriİnceleme_SGD.ipynb`
+    * Final model ve değerlendirme için: `Kerem_Oğuz_22040101039_OlayYeriİnceleme_Stacking.ipynb`
 
 ## 📂 Proje Yapısı
